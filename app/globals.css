@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #f7f9fc;
+  --foreground: #0b1220;
+  --card: #ffffff;
+  --border: #e1e7f0;
+  --muted-foreground: #5b6b82;
+  --primary: #155eef;
+  --accent: #0b2a6b;
+  --primary-glow: #5b9dff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-manrope), Inter, sans-serif;
+}
+
+::selection {
+  background-color: var(--primary);
+  color: #ffffff;
+}
+
+:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
+* {
+  border-color: var(--border);
+}

@@ -1,0 +1,39 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "portfolio": "Portfolio",
+    "process": "Process",
+    "contact": "Contact",
+    "cta": "Get Started"
+  },
+  "footer": {
+    "tagline": "Engineering intelligent software for the next decade of business.",
+    "navHeading": "Navigation",
+    "socialHeading": "Follow us",
+    "contactHeading": "Contact",
+    "email": "hello@datics.ai",
+    "phone": "+1 (415) 555-0198",
+    "address": "548 Market Street, Suite 1100, San Francisco, CA 94104",
+    "copyright": "© 2024 Datics.ai. All rights reserved.",
+    "socialLinks": [
+      {
+        "label": "LinkedIn",
+        "href": "#"
+      },
+      {
+        "label": "Twitter / X",
+        "href": "#"
+      },
+      {
+        "label": "GitHub",
+        "href": "#"
+      },
+      {
+        "label": "Dribbble",
+        "href": "#"
+      }
+    ]
+  }
+}
